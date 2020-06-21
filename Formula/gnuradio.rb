@@ -36,7 +36,7 @@ class Gnuradio < Formula
   depends_on "py3cairo"
   depends_on "pygobject3"
   depends_on "pyqt"
-  depends_on "python"
+  depends_on "python@3.8"
   depends_on "qt"
   depends_on "qwt"
   depends_on "sdl"
