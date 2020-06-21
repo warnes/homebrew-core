@@ -33,6 +33,7 @@ class Gnuradio < Formula
   depends_on "numpy"
   depends_on "pango"
   depends_on "portaudio"
+  depends_on "py3cairo"
   depends_on "pygobject3"
   depends_on "pyqt"
   depends_on "python"
